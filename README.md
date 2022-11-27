@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/693kq0oqnegad55c?svg=true)](https://ci.appveyor.com/project/kirillgureev/automatedtesthomework5task1patterns)
